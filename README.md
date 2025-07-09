@@ -23,6 +23,8 @@ This Power BI report explores Netflix’s content catalog using data visualizati
 ## 📸 Dashboard Preview
 
 ![{E42A7CF7-4580-4EF6-921B-37DAF5978226}](https://github.com/user-attachments/assets/1abd22e9-2c5f-4eb0-9c14-44fc9544b71f)
+![Screenshot 2025-07-09 225252](https://github.com/user-attachments/assets/95edf33e-98e3-4f0b-8315-d535151ceced)
+
 
 
 ```markdown
